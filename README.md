@@ -1,4 +1,4 @@
-# Bractal
+# Laymata
 Standardise everything.
 
 Standardisation is a fundamental principle. To go against it requires leverage, means and market majority - only to forever swim against the stream.
